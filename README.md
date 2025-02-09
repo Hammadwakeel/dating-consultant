@@ -43,7 +43,7 @@ Installation
 
     Clone the Repository:
 
-git clone https://github.com/yourusername/yourproject.git
+https://github.com/Hammadwakeel/dating-consultant.git
 cd yourproject
 
 Set Up a Virtual Environment:
